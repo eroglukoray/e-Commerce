@@ -1,3 +1,6 @@
+
+Version : .Net Core 2.1 
+
 Testleri Yapmak İçin aşağıdaki API'ları çalıştırabilirsiniz;
 
 ---------------------------Sepete Ürün Ekleme--------------------------
