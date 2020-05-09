@@ -3,7 +3,6 @@ Testleri Yapmak İçin aşağıdaki API'ları çalıştırabilirsiniz;
 ---------------------------Sepete Ürün Ekleme--------------------------
 
 (POST) https://localhost:5001/api/Cart/Create?productId=1
-
 	
 {
 	"Id":1,
@@ -14,7 +13,6 @@ Testleri Yapmak İçin aşağıdaki API'ları çalıştırabilirsiniz;
 -------------Sepete Kupon Ekleme ve Koşullar Sağlanırsa İndirim Yapılması--------------
  
 (POST)  https://localhost:5001/api/Cart/applyCoupon  
-
 
 {
 	"DiscountTypeId": 1,
@@ -47,7 +45,6 @@ Testleri Yapmak İçin aşağıdaki API'ları çalıştırabilirsiniz;
 	"ProductId": 1,
 	"Amount":10,
 	"TotalPrice":45
-
 }
 
 -------------------CampaignDiscount------------------
