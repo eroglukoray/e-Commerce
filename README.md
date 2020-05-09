@@ -27,20 +27,17 @@ Testleri Yapmak İçin aşağıdaki API'ları çalıştırabilirsiniz;
 (POST) https://localhost:5001/api/Cart/applyDiscounts
 
 [{
-  
   "categoryId": 1,
   "discountTypeId": 1,
   "discountRate": 10,
   "amountLimit": 20
 },
 {
-
   "categoryId": 2,
   "discountTypeId": 2,
   "discountRate": 30,
   "amountLimit": 1
-}
-]
+}]
 
 -------------Teslimat Tutarı Hesaplama--------------
 
