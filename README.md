@@ -54,13 +54,17 @@ Testleri Yapmak İçin aşağıdaki API'ları çalıştırabilirsiniz;
 }
 
 -------------------CampaignDiscount------------------
+
 (GET) https://localhost:5001/api/Cart/CampaignDiscount
 
 ------------------CouponDiscount--------------------
+
 (GET) https://localhost:5001/api/Cart/CouponDiscount
 
 -------------------DeliveryCost---------------------
+
 (GET) https://localhost:5001/api/Cart/DeliveryCost
 
 -----------------TotalAmountAfterDiscount-----------
+
 (GET) https://localhost:5001/api/Cart/TotalAmountAfterDiscount
