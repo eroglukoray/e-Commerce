@@ -1,0 +1,16 @@
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\bin\Release\netcoreapp2.1\eCommerce.Business.deps.json
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\bin\Release\netcoreapp2.1\eCommerce.Business.dll
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\bin\Release\netcoreapp2.1\eCommerce.Business.pdb
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\bin\Release\netcoreapp2.1\eCommerce.Core.dll
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\bin\Release\netcoreapp2.1\eCommerce.DataAccess.dll
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\bin\Release\netcoreapp2.1\eCommerce.Entities.dll
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\bin\Release\netcoreapp2.1\eCommerce.Core.pdb
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\bin\Release\netcoreapp2.1\eCommerce.DataAccess.pdb
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\bin\Release\netcoreapp2.1\eCommerce.Entities.pdb
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\obj\Release\netcoreapp2.1\eCommerce.Business.csprojAssemblyReference.cache
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\obj\Release\netcoreapp2.1\eCommerce.Business.csproj.CoreCompileInputs.cache
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\obj\Release\netcoreapp2.1\eCommerce.Business.AssemblyInfoInputs.cache
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\obj\Release\netcoreapp2.1\eCommerce.Business.AssemblyInfo.cs
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\obj\Release\netcoreapp2.1\eCommerce.Business.csproj.CopyComplete
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\obj\Release\netcoreapp2.1\eCommerce.Business.dll
+C:\Users\Koray\Desktop\ECommerce\E-Commerce.Business\obj\Release\netcoreapp2.1\eCommerce.Business.pdb

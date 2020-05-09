@@ -1,0 +1,124 @@
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.Views.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.Views.pdb
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.deps.json
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.runtimeconfig.json
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.runtimeconfig.dev.json
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.pdb
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Business.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Core.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Entities.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.pdb
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Business.pdb
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Core.pdb
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Entities.pdb
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csprojAssemblyReference.cache
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csproj.CoreCompileInputs.cache
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.AssemblyInfoInputs.cache
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.AssemblyInfo.cs
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csproj.CopyComplete
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.dll
+C:\Users\Koray\Desktop\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.Views.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.Views.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.deps.json
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.runtimeconfig.json
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.runtimeconfig.dev.json
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Business.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Core.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Entities.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Business.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Core.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Entities.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csprojAssemblyReference.cache
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csproj.CoreCompileInputs.cache
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.AssemblyInfoInputs.cache
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.AssemblyInfo.cs
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csproj.CopyComplete
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.genruntimeconfig.cache
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.Views.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.Views.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.deps.json
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.runtimeconfig.json
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.runtimeconfig.dev.json
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Business.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Core.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Entities.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Business.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Core.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Entities.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csprojAssemblyReference.cache
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.AssemblyInfoInputs.cache
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.AssemblyInfo.cs
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csproj.CopyComplete
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.genruntimeconfig.cache
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Api.dll
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Api.pdb
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csproj.CoreCompileInputs.cache
+C:\Users\Koray\Documents\Projeler\HepsiBurada Mulakat\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\appsettings.json
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\libman.json
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.Views.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.Views.pdb
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.deps.json
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.runtimeconfig.json
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.runtimeconfig.dev.json
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Test.pdb
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Api.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Business.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Core.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Entities.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Api.pdb
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Campaign.MvcWebUI.pdb
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Business.pdb
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Core.pdb
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\bin\Debug\netcoreapp2.1\eCommerce.Entities.pdb
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csprojAssemblyReference.cache
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csproj.CoreCompileInputs.cache
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.AssemblyInfoInputs.cache
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.AssemblyInfo.cs
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.csproj.CopyComplete
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.dll
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.pdb
+C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\eCommerce.Test\obj\Debug\netcoreapp2.1\eCommerce.Test.genruntimeconfig.cache

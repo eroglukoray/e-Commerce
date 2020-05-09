@@ -1,0 +1,35 @@
+﻿@model eCommerce.Campaign.MvcWebUI.Models.ProductViewModel
+@{
+    ViewData["Title"] = "GetProduct";
+}
+
+
+<html>
+<head>
+    <h2>GetProduct</h2>
+
+</head>
+<body>
+    <div>
+        <table>
+            <tr>
+                <td>Product Code </td>
+                <td>Price </td>
+                <td>Stock </td>
+                <td>Kategori Id </td>
+            </tr>
+
+            @foreach(var item in Model.product)
+            {
+            <tr>
+                <td>@item.Title </td>
+                <td>@item.Price &#8378; </td>
+                <td>@item.CategoryId </td>
+            </tr>
+            }
+
+        </table>
+    </div>
+</body>
+
+</html>

@@ -1,0 +1,359 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Api\\eCommerce.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Business\\eCommerce.Business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Business\\eCommerce.Business.csproj",
+        "projectName": "eCommerce.Business",
+        "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Business\\eCommerce.Business.csproj",
+        "packagesPath": "C:\\Users\\Koray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Business\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Koray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj"
+              },
+              "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj"
+              },
+              "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj": {
+                "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj",
+        "projectName": "eCommerce.Core",
+        "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj",
+        "packagesPath": "C:\\Users\\Koray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Koray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj",
+        "projectName": "eCommerce.DataAccess",
+        "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj",
+        "packagesPath": "C:\\Users\\Koray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Koray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj"
+              },
+              "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj": {
+                "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj",
+        "projectName": "eCommerce.Entities",
+        "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj",
+        "packagesPath": "C:\\Users\\Koray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Koray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Api\\eCommerce.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Api\\eCommerce.Api.csproj",
+        "projectName": "eCommerce.Api",
+        "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Api\\eCommerce.Api.csproj",
+        "packagesPath": "C:\\Users\\Koray\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Koray\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {
+              "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Business\\eCommerce.Business.csproj": {
+                "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Business\\eCommerce.Business.csproj"
+              },
+              "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj": {
+                "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj"
+              },
+              "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj": {
+                "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj"
+              },
+              "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj": {
+                "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.AspNet.WebApi.Core": {
+              "target": "Package",
+              "version": "[5.2.7, )"
+            },
+            "Microsoft.AspNetCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.1, )",
+              "autoReferenced": true
+            },
+            "Microsoft.AspNetCore.Razor.Design": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
+              "target": "Package",
+              "version": "[2.1.10, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
