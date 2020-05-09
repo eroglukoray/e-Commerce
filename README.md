@@ -1,6 +1,6 @@
 Testleri Yapmak İçin aşağıdaki API'ları çalıştırabilirsiniz;
 
------------------Sepete Ürün Ekleme-----------------
+---------------------------Sepete Ürün Ekleme--------------------------
 (POST) https://localhost:5001/api/Cart/Create?productId=1
 
 	
