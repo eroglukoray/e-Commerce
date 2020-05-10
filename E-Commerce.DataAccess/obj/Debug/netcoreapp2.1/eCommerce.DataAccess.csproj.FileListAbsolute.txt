@@ -82,3 +82,17 @@ E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce
 E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.csproj.CopyComplete
 E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
 E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.deps.json
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.Core.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.Entities.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.Core.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.Entities.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.csprojAssemblyReference.cache
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.csproj.CoreCompileInputs.cache
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.AssemblyInfoInputs.cache
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.AssemblyInfo.cs
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.csproj.CopyComplete
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb

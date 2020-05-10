@@ -52,3 +52,12 @@ E:\Downloads\GitProjects\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.
 E:\Downloads\GitProjects\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.AssemblyInfo.cs
 E:\Downloads\GitProjects\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.dll
 E:\Downloads\GitProjects\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Core\bin\Debug\netcoreapp2.1\eCommerce.Core.deps.json
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Core\bin\Debug\netcoreapp2.1\eCommerce.Core.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Core\bin\Debug\netcoreapp2.1\eCommerce.Core.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.csprojAssemblyReference.cache
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.csproj.CoreCompileInputs.cache
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.AssemblyInfoInputs.cache
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.AssemblyInfo.cs
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.pdb

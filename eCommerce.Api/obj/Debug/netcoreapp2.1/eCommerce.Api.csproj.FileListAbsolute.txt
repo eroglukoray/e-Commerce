@@ -132,3 +132,31 @@ E:\Downloads\GitProjects\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.csp
 E:\Downloads\GitProjects\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.dll
 E:\Downloads\GitProjects\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.pdb
 E:\Downloads\GitProjects\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.genruntimeconfig.cache
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\appsettings.Development.json
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\appsettings.json
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\libman.json
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\Properties\launchSettings.json
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Api.deps.json
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Api.runtimeconfig.json
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Api.runtimeconfig.dev.json
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Api.dll
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Api.pdb
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Business.dll
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Core.dll
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Entities.dll
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Business.pdb
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Core.pdb
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\bin\Debug\netcoreapp2.1\eCommerce.Entities.pdb
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.csprojAssemblyReference.cache
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.csproj.CoreCompileInputs.cache
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.RazorAssemblyInfo.cache
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.RazorAssemblyInfo.cs
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.AssemblyInfoInputs.cache
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.AssemblyInfo.cs
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.RazorTargetAssemblyInfo.cache
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.csproj.CopyComplete
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.dll
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.pdb
+E:\Downloads\GitHub Projects\e-Commerce\eCommerce.Api\obj\Debug\netcoreapp2.1\eCommerce.Api.genruntimeconfig.cache

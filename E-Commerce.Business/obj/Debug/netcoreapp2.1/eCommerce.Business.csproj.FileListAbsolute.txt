@@ -94,3 +94,19 @@ E:\Downloads\GitProjects\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.B
 E:\Downloads\GitProjects\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.Business.csproj.CopyComplete
 E:\Downloads\GitProjects\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.Business.dll
 E:\Downloads\GitProjects\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.Business.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\bin\Debug\netcoreapp2.1\eCommerce.Business.deps.json
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\bin\Debug\netcoreapp2.1\eCommerce.Business.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\bin\Debug\netcoreapp2.1\eCommerce.Business.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\bin\Debug\netcoreapp2.1\eCommerce.Core.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\bin\Debug\netcoreapp2.1\eCommerce.Entities.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\bin\Debug\netcoreapp2.1\eCommerce.Core.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\bin\Debug\netcoreapp2.1\eCommerce.Entities.pdb
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.Business.csprojAssemblyReference.cache
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.Business.csproj.CoreCompileInputs.cache
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.Business.AssemblyInfoInputs.cache
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.Business.AssemblyInfo.cs
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.Business.csproj.CopyComplete
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.Business.dll
+E:\Downloads\GitHub Projects\e-Commerce\E-Commerce.Business\obj\Debug\netcoreapp2.1\eCommerce.Business.pdb
