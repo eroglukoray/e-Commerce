@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hWdI+uQZ+hcqBUenlYwY/gBnleDPl1o7EPOZSmQMtRTuKGdL4yfq4Km0Z5haJildm5pcDt5kw7h7TknaX63IZw==",
+  "dgSpecHash": "MxtRaNLZlEF0o92efm62X5fOpw24PXIM/yreWEmbunKis7gceK4V/RHZmRKcRXQgNuKAFDKac8mz6PhOcJN7FA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Test\\eCommerce.Test.csproj",
+  "projectFilePath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\eCommerce.Test\\eCommerce.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Koray\\.nuget\\packages\\microsoft.aspnet.mvc\\5.2.7\\microsoft.aspnet.mvc.5.2.7.nupkg.sha512",
     "C:\\Users\\Koray\\.nuget\\packages\\microsoft.aspnet.razor\\3.2.7\\microsoft.aspnet.razor.3.2.7.nupkg.sha512",

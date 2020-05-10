@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zcsvyO75PFMwpc6tOEYv1fd7GEH2foIG3L6hMUzkE0cKNBjFiRYRMqmrg5aBfXl3D06E4ActTnS4DWpVEOjZfg==",
+  "dgSpecHash": "22Sli/GrlfCbO0A+ZJyJtusgoA5SVfxrEka/kYhGvghroJzyy0jQue/xaGniqrzcoHKonhBA4bucgujIh61/nw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj",
+  "projectFilePath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.Entities\\eCommerce.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Koray\\.nuget\\packages\\microsoft.entityframeworkcore\\2.1.0\\microsoft.entityframeworkcore.2.1.0.nupkg.sha512",
     "C:\\Users\\Koray\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\2.1.0\\microsoft.entityframeworkcore.abstractions.2.1.0.nupkg.sha512",

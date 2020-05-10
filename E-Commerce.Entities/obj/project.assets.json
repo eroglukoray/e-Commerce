@@ -3007,11 +3007,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj",
+      "projectUniqueName": "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.Entities\\eCommerce.Entities.csproj",
       "projectName": "eCommerce.Entities",
-      "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj",
+      "projectPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.Entities\\eCommerce.Entities.csproj",
       "packagesPath": "C:\\Users\\Koray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\obj\\",
+      "outputPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3030,8 +3030,8 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj": {
-              "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj"
+            "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.Core\\eCommerce.Core.csproj": {
+              "projectPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.Core\\eCommerce.Core.csproj"
             }
           }
         }

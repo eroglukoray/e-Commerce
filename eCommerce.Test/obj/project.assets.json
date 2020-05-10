@@ -10152,11 +10152,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Test\\eCommerce.Test.csproj",
+      "projectUniqueName": "E:\\Downloads\\GitHub Projects\\e-Commerce\\eCommerce.Test\\eCommerce.Test.csproj",
       "projectName": "eCommerce.Test",
-      "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Test\\eCommerce.Test.csproj",
+      "projectPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\eCommerce.Test\\eCommerce.Test.csproj",
       "packagesPath": "C:\\Users\\Koray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Test\\obj\\",
+      "outputPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\eCommerce.Test\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -10175,11 +10175,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Api\\eCommerce.Api.csproj": {
-              "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Api\\eCommerce.Api.csproj"
+            "E:\\Downloads\\GitHub Projects\\e-Commerce\\eCommerce.Api\\eCommerce.Api.csproj": {
+              "projectPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\eCommerce.Api\\eCommerce.Api.csproj"
             },
-            "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Campaign.MvcWebUI\\eCommerce.Campaign.MvcWebUI.csproj": {
-              "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Campaign.MvcWebUI\\eCommerce.Campaign.MvcWebUI.csproj"
+            "E:\\Downloads\\GitHub Projects\\e-Commerce\\eCommerce.Campaign.MvcWebUI\\eCommerce.Campaign.MvcWebUI.csproj": {
+              "projectPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\eCommerce.Campaign.MvcWebUI\\eCommerce.Campaign.MvcWebUI.csproj"
             }
           }
         }

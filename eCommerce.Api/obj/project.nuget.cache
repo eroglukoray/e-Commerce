@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wGU0K6Irn9XwEGj28RCp7j28CApI0I1tjVEm+l5+PZ78XujYFErpBYKULU4EHrvopP0gdY3kFjwO9tmEvehfEQ==",
+  "dgSpecHash": "AvecBTnM7MB9n8Iqy0enHMTPN58MAlg2/bjtaUcsCBVqE+iNbllhnni0BFSH3Gn09+8SzPlrTf2B5HvFqWubBA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\eCommerce.Api\\eCommerce.Api.csproj",
+  "projectFilePath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\eCommerce.Api\\eCommerce.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Koray\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\Koray\\.nuget\\packages\\microsoft.aspnet.webapi.core\\5.2.7\\microsoft.aspnet.webapi.core.5.2.7.nupkg.sha512",

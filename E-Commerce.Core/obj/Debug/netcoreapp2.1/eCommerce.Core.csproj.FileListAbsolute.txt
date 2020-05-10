@@ -43,3 +43,12 @@ C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_
 C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.AssemblyInfo.cs
 C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.dll
 C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.pdb
+E:\Downloads\GitProjects\E-Commerce.Core\bin\Debug\netcoreapp2.1\eCommerce.Core.deps.json
+E:\Downloads\GitProjects\E-Commerce.Core\bin\Debug\netcoreapp2.1\eCommerce.Core.dll
+E:\Downloads\GitProjects\E-Commerce.Core\bin\Debug\netcoreapp2.1\eCommerce.Core.pdb
+E:\Downloads\GitProjects\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.csprojAssemblyReference.cache
+E:\Downloads\GitProjects\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.csproj.CoreCompileInputs.cache
+E:\Downloads\GitProjects\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.AssemblyInfoInputs.cache
+E:\Downloads\GitProjects\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.AssemblyInfo.cs
+E:\Downloads\GitProjects\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.dll
+E:\Downloads\GitProjects\E-Commerce.Core\obj\Debug\netcoreapp2.1\eCommerce.Core.pdb

@@ -3528,11 +3528,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj",
+      "projectUniqueName": "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj",
       "projectName": "eCommerce.DataAccess",
-      "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj",
+      "projectPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.DataAccess\\eCommerce.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Koray\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.DataAccess\\obj\\",
+      "outputPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -3551,11 +3551,11 @@
       "frameworks": {
         "netcoreapp2.1": {
           "projectReferences": {
-            "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj": {
-              "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Core\\eCommerce.Core.csproj"
+            "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.Core\\eCommerce.Core.csproj": {
+              "projectPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.Core\\eCommerce.Core.csproj"
             },
-            "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj": {
-              "projectPath": "C:\\Users\\Koray\\Documents\\Projeler\\Trendyol_Calisma\\ECommerce_TrendYol\\ECommerce_TrendYol\\ECommerce\\E-Commerce.Entities\\eCommerce.Entities.csproj"
+            "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.Entities\\eCommerce.Entities.csproj": {
+              "projectPath": "E:\\Downloads\\GitHub Projects\\e-Commerce\\E-Commerce.Entities\\eCommerce.Entities.csproj"
             }
           }
         }

@@ -68,3 +68,17 @@ C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_
 C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.csproj.CopyComplete
 C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
 C:\Users\Koray\Documents\Projeler\Trendyol_Calisma\ECommerce_TrendYol\ECommerce_TrendYol\ECommerce\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
+E:\Downloads\GitProjects\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.deps.json
+E:\Downloads\GitProjects\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
+E:\Downloads\GitProjects\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
+E:\Downloads\GitProjects\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.Core.dll
+E:\Downloads\GitProjects\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.Entities.dll
+E:\Downloads\GitProjects\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.Core.pdb
+E:\Downloads\GitProjects\E-Commerce.DataAccess\bin\Debug\netcoreapp2.1\eCommerce.Entities.pdb
+E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.csprojAssemblyReference.cache
+E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.csproj.CoreCompileInputs.cache
+E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.AssemblyInfoInputs.cache
+E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.AssemblyInfo.cs
+E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.csproj.CopyComplete
+E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.dll
+E:\Downloads\GitProjects\E-Commerce.DataAccess\obj\Debug\netcoreapp2.1\eCommerce.DataAccess.pdb
